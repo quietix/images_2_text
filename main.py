@@ -1,5 +1,3 @@
-import asyncio
-
 from aiogram import Bot, Dispatcher, executor, types
 from dotenv.main import load_dotenv
 import os
