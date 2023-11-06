@@ -74,3 +74,4 @@ fabric.properties
 .env
 downloads/
 venv/
+__pycache__/
